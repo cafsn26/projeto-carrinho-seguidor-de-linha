@@ -1,5 +1,3 @@
-
-
 bool verificarLinhaMeio(int pino17, int pino18){
   /*
   Verifica se tem linha no meio do carrinho 
